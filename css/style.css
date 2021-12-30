@@ -180,6 +180,7 @@ textarea {
     font-size: 1em;
     letter-spacing: 0.05em;
     font-weight: 200;
+    border-radius: 6px;
 }
 
 .message-container {
